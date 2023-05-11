@@ -1,0 +1,27 @@
+<person xml:id="isaacBabel">
+	<role>writer</role>
+	<surnameEng>Babel</surnameEng>
+	<forename>Isaac</forename>
+	<gender>m</gender>
+	<nationality>USSR</nationality>
+	<keys>
+		<key>бабелем</key>
+		<key>бабель</key>
+		<key>бабеле</key>
+		<key>бабелю</key>
+		<key>бабел</key>
+		<key>бабеля</key>
+		<key>исааку бабелю</key>
+		<key>исаак бабел</key>
+		<key>исаака бабеля</key>
+		<key>исаак бабель</key>
+		<key>исааком бабелем</key>
+		<key>исааке бабеле</key>
+		<key>исаака</key>
+		<key>исаак</key>
+		<key>исааку</key>
+		<key>исааке</key>
+		<key>исааком</key>
+	</keys>
+</person>
+

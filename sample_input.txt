@@ -1,0 +1,19 @@
+SAMPLE INPUTS FOR THE TAG CREATOR PROGRAM'S INPUT.TXT FILE
+
+metaperson, adams, Adams, Francis, m 
+metaperson, zhanakeev, Zhanakeev, Turgunbek, m, Жанакеев, sov
+
+person, volodymyrZelenskyy, actor, Zelenskyy, Volodymyr, m, Ukraine, noun adj; adj, володымыр зеленський; зеленський
+person, lyubovOrlova, actress, Orlova, Lyubov, f, Russia, noun noun; noun, любовь орлова; орлова
+
+title, kurmanjanDatka, Kurmanjan Datka, Курманжан Датка, director, film, Russia, genre, 2014, imdb.com/kd, noun noun, курманжан датка  
+title, theLittleMermaid, The Little Mermaid, Русалочка, Ron Clements and Jon Musker, film, USA, Disney, 1989, http://www.imdb.com/title/tt0097757/, noun, русалочка
+
+place, stPetersburg, St. Petersburg, geo, noun; noun; noun; noun, питер; санкт-петербург; петербург; ленинград
+place, kinoteatrIskra, Iskra Movie Theater, exhibition, noun; noun noun, кинотеатр, кинотеатр искра
+
+genre, western, noun; adj noun, запад; дикий запад
+genre, historic, noun; adj; adj; adj, история; исторический; историческая; историческое
+
+nationalCinema, americanCinema, adj noun, американское кино
+nationalCinema, italianCinema, adj noun, итальянское кино 
